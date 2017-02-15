@@ -1,5 +1,5 @@
 <h2>Analysing Effect of Higher Excise Tax on Smoking Behavior of Various Age Groups</h2>
-                                                                            - Gaurav Shahane & Kushal Thakkar
+                                                Authors: Gaurav Shahane & Kushal Thakkar
                                                                                                           
 <h2>Introduction</h2> 
 
