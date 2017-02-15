@@ -7,6 +7,18 @@ As per the Centers of Disease Control and Prevention, Smoking remains the primar
 
 Our rationale behind picking this problem was this: Let’s revisit the CDC data of more than 480,000 deaths caused due to smoking. By any standards that is a very big number and this is true for each year. Our study focuses on whether governments’ changes in state excise tax on cigarette are really effective on the ground level? Are the right things done and are they done to right extent to save some or more of these ‘preventable’ deaths. Through this project we look to study whether increasing taxes will have any effect on the smoking population? And will it affect each age group equally? To uncover the answers to these questions, we decided to take verify the relationship between taxation and behavior of smoking population belonging to various age groups in all the states of USA. 
 
+<h1>Result</h1>
+
+- Increase in Excise tax negatively correlated with the percentage of smoking population in United States.  
+
+- As per our prediction, $1 rise in Excise Tax on Cigarette packet will result in decrease in smoking population by approximately 3%.
+
+- Making cigarette expensive affected the least to the age group of 18 to 24 years, even though they might have the lowest income of all the age groups.
+
+- Making cigarette expensive affected the most to the age group of 45 to 64 years, even though they might be earning more than any other age group.
+
+
+
 Please find the Research Paper and Presentation as below.
 
 <a href = "https://github.com/gaurav-shahane/INST627-DataAnalytics/raw/master/Project_Paper_The%20study%20of%20Higher%20Excise%20Tax%20on%20Cigarette%20on%20Smoking%20Population.pdf">Research Paper<a>
