@@ -19,12 +19,12 @@ Our rationale behind picking this problem was this: Let’s revisit the CDC data
 
 We can conclude that the policy of controlling smoking behavior works well for the middle aged citizens (45-64 years), rather than the youth (18-24 years). As per the findings, appropriate changes can be done in the policy or any other alternatives can be explored to influence the target age groups.
 
-<h2>Attachments</h2>
+<h3>Attachments</h3>
 
 - <a href = "https://github.com/gaurav-shahane/INST627-DataAnalytics/raw/master/Project_Paper_The%20study%20of%20Higher%20Excise%20Tax%20on%20Cigarette%20on%20Smoking%20Population.pdf">Research Paper<a>
 
 - <a href="https://github.com/gaurav-shahane/INST627-DataAnalytics/raw/master/Project_Presentation_The%20study%20of%20Higher%20Excise%20Tax%20on%20Cigarette%20on%20Smoking%20Population.pptx"> Project Presentation</a>
 
-<h2>Open Datasets</h2>
+<h3>Open Datasets</h3>
 
-- Data on Smoking and Tobaco Use, Retrieved 15th September 2015, from http://www.cdc.gov/tobacco/data_statistics/surveys/index.htm
+- Data on Smoking and Tobaco Use, Office on Smoking and Health, National Center for Chronic Disease Prevention and Health Promotion, Retrieved 15th September 2015, from http://www.cdc.gov/tobacco/data_statistics/surveys/index.htm
