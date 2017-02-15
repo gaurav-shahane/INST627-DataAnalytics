@@ -1,6 +1,6 @@
 <h2>Analysing Effect of Higher Excise Tax on Smoking Behavior of Various Age Groups</h2>
 
-A study by Gaurav Shahane & Kushal Thakkar
+A study by Gaurav Shahane & Kushal Thakkar of University of Maryland College Park
                                                                                                           
 <h2>Introduction</h2> 
 
