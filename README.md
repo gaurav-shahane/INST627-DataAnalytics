@@ -1,5 +1,6 @@
 <h2>Analysing Effect of Higher Excise Tax on Smoking Behavior of Various Age Groups</h2>
-
+                                                                                                          - Gaurav Shahane
+                                                                                                            Kushal Thakkar
 <h2>Introduction</h2> 
 
 As per the Centers of Disease Control and Prevention, Smoking remains the primary cause of preventable deaths in the US, Killing an estimate of over 480,000 citizens each year. Government has taken up several initiatives to curb death and illnesses caused due chronic use of cigarettes. Along with a few direct initiatives, to target a bigger population of cigarette smokers, the government usually uses means of increasing excise tax on cigarette. Basis of their argument is making cigarette expensive will reduce its consumption and this is how they can address the entire issue of illnesses and death caused due to cigarette smoking. We want to study the impact of Excise Taxes on Cigarette on the smoking population in the United States.
