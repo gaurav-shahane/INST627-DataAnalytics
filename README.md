@@ -7,7 +7,7 @@ As per the Centers of Disease Control and Prevention, Smoking remains the primar
 
 Our rationale behind picking this problem was this: Let’s revisit the CDC data of more than 480,000 deaths caused due to smoking. By any standards that is a very big number and this is true for each year. Our study focuses on whether governments’ changes in state excise tax on cigarette are really effective on the ground level? Are the right things done and are they done to right extent to save some or more of these ‘preventable’ deaths. Through this project we look to study whether increasing taxes will have any effect on the smoking population? And will it affect each age group equally? To uncover the answers to these questions, we decided to take verify the relationship between taxation and behavior of smoking population belonging to various age groups in all the states of USA. 
 
-<h1>Findings</h1>
+<h2>Findings</h2>
 
 - Increase in Excise tax negatively correlated with the percentage of smoking population in United States.  
 
@@ -19,8 +19,12 @@ Our rationale behind picking this problem was this: Let’s revisit the CDC data
 
 We can conclude that the policy of controlling smoking behavior works well for the middle aged citizens (45-64 years), rather than the youth (18-24 years). As per the findings, appropriate changes can be done in the policy or any other alternatives can be explored to influence the target age groups.
 
-<i>Attachments</i>
+<h2>Attachments</h2>
 
 - <a href = "https://github.com/gaurav-shahane/INST627-DataAnalytics/raw/master/Project_Paper_The%20study%20of%20Higher%20Excise%20Tax%20on%20Cigarette%20on%20Smoking%20Population.pdf">Research Paper<a>
 
 - <a href="https://github.com/gaurav-shahane/INST627-DataAnalytics/raw/master/Project_Presentation_The%20study%20of%20Higher%20Excise%20Tax%20on%20Cigarette%20on%20Smoking%20Population.pptx"> Project Presentation</a>
+
+<h2>Open Datasets</h2>
+
+- Data on Smoking and Tobaco Use, Retrieved 15th September 2015, from http://www.cdc.gov/tobacco/data_statistics/surveys/index.htm
