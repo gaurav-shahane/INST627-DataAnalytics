@@ -23,7 +23,7 @@ We can conclude that the policy of controlling smoking behavior works well for t
 
 - <a href = "https://github.com/gaurav-shahane/INST627-DataAnalytics/raw/master/Project_Paper_The%20study%20of%20Higher%20Excise%20Tax%20on%20Cigarette%20on%20Smoking%20Population.pdf">Research Paper<a>
 
-- <a href="https://github.com/gaurav-shahane/INST627-DataAnalytics/raw/master/Project_Presentation_The%20study%20of%20Higher%20Excise%20Tax%20on%20Cigarette%20on%20Smoking%20Population.pptx"> Project Presentation</a>
+- <a href="https://github.com/gaurav-shahane/Smoking_Vs_ExciseTax_Data_Analysis/blob/master/Project_Presentation_The%20study%20of%20Higher%20Excise%20Tax%20on%20Cigarette%20on%20Smoking%20Population.pptx"> Project Presentation</a>
 
 <h3>Open Datasets</h3>
 
