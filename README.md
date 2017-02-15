@@ -1,4 +1,4 @@
-<h2>The study of Effect of Higher Excise Tax on Smoking Behavior of Various Age Groups</h2>
+<h2>Analysing Effect of Higher Excise Tax on Smoking Behavior of Various Age Groups</h2>
 
 <h2>Introduction</h2> 
 
